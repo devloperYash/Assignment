@@ -42,4 +42,6 @@ A comprehensive web application that allows users to register, browse stores, an
 3.  **Run Migrations:** Execute `npm run db:push` to sync the database schema.
 4.  **Start Application:** Run `npm run dev` to start the development server.
 
+## License
 
+MIT
