@@ -35,6 +35,15 @@ A comprehensive web application that allows users to register, browse stores, an
 *   **Password:** 8 - 16 characters, must include at least one uppercase letter and one special character.
 *   **Email:** Standard email format validation.
 
+## Credentials for Testing
+You can test the application using the following pre-seeded accounts:
+| Role | Email | Password |
+| :--- | :--- | :--- |
+| **System Admin** | `admin@system.com` | `Admin123!` |
+| **Store Owner** | `owner@store.com` | `Owner123!` |
+| **Normal User** | `user@normal.com` | `User123!` |
+
+
 ## Getting Started
 
 1.  **Installation:** Run `npm install` to install dependencies.
